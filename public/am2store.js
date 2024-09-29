@@ -1,5 +1,15 @@
 (function () {
     window.am2data.push({
+        file: "am2data/YanoACG(CAB).am2Data",
+        desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体",
+        author: "焱一nano",
+        image: "cover/YanoACG(CAB).png"
+    }, {
+        file: "am2data/FortinCali.am2Data",
+        desc: "",
+        author: "焱一nano",
+        image: "https://cdn.shopify.com/s/files/1/0503/9089/2702/products/Cali-2480x1400px.png?v=1668690325&format=webp&width=550"
+    }, {
         file: "am2data/Gojira_JD_rhym3.am2",
         desc: "",
         author: "焱一nano",
@@ -8,7 +18,7 @@
         file: "am2data/LeLeadHHGain.am2Data",
         desc: "",
         author: "焱一nano",
-        image: "http://www.grebz.fr/images/homestudio/lepou_le456_newskin.jpg"
+        image: "https://bassfreq.com.sg/wp-content/uploads/2020/05/10753624_800.jpg"
     }, {
         file: "am2data/VH433max.am2Data",
         desc: "",
