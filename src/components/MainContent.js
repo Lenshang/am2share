@@ -159,7 +159,7 @@ export default function MainContent() {
                 }} />
                 <Box
                     sx={{
-                        display: { xs: 'none', sm: 'flex' },
+                        display: { xs: 'flex', sm: 'flex' },
                         flexDirection: 'row',
                         gap: 1,
                         width: { xs: '100%', md: 'fit-content' },

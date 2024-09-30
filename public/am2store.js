@@ -1,5 +1,10 @@
 (function () {
     window.am2data.push({
+        file: "am2data/YanoACG(CAB)_10000step.am2Data",
+        desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体  10000步训练版本",
+        author: "焱一nano",
+        image: "cover/YanoACG(CAB).png"
+    }, {
         file: "am2data/YanoACG(CAB).am2Data",
         desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体",
         author: "焱一nano",
