@@ -1,5 +1,10 @@
 (function () {
     window.am2data.push({
+        file: "am2data/NDSP_NAMELESS_DEFAULT_WITHCAB.am2",
+        desc: "NeuralDSP NamelessX Default音色 自带箱体模拟版本",
+        author: "Lenshang",
+        image: "https://images.ctfassets.net/8puu65w27ud0/Dcg7Hop4k66g2TwxDAGnp/951223129b2959676775d7b2ac0f1410/namelessx-amp-img.png?w=450&fm=webp"
+    }, {
         file: "am2data/YanoACG(CAB)_10000step.am2Data",
         desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体  10000步训练版本",
         author: "焱一nano",
