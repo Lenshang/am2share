@@ -1,5 +1,11 @@
 (function () {
     window.am2data.push({
+        file: "am2data/PA_DIZEEL_VH4_WITHCAB.am2",
+        media: "preview/PA_DIZEEL_VH4_WITHCAB_DEMO.ogg",
+        desc: "PA-Dizzel VH4+GTRPedal OD推子+三体IR CAB （自带箱体模拟版本）",
+        author: "Lenshang",
+        image: "https://www.diezelamplification.com/wp-content/uploads/2017/01/Product_Page_Amps_00000.jpg"
+    }, {
         file: "am2data/NDSP_NAMELESS_DEFAULT_WITHCAB.am2",
         desc: "NeuralDSP NamelessX Default音色 自带箱体模拟版本",
         author: "Lenshang",
