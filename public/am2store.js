@@ -6,6 +6,23 @@
         author: "Lenshang",
         image: "https://www.diezelamplification.com/wp-content/uploads/2017/01/Product_Page_Amps_00000.jpg"
     }, {
+        file: "am2data/20241005/R24ACG(CAB).am2Data",
+        media: "preview/R24ACG.mp3",
+        desc: "808→JOYO R24→Crews 2x12",
+        author: "焱一nano",
+        image: "cover/YanoR24acg.jpg"
+    }, {
+        file: "am2data/20241005/R24Riff(CAB).am2Data",
+        media: "preview/R24Riff.mp3",
+        desc: "FORTIN GRIND→JOYO R24→IR（EVH Inspired 5150 412ST）",
+        author: "焱一nano",
+        image: "cover/YanoR24.jpg"
+    }, {
+        file: "am2data/20241005/YanoACG2(CAB).am2Data",
+        desc: "YanoACG2(CAB)",
+        author: "焱一nano",
+        image: "cover/YanoACG(CAB).jpg"
+    }, {
         file: "am2data/NDSP_NAMELESS_DEFAULT_WITHCAB.am2",
         desc: "NeuralDSP NamelessX Default音色 自带箱体模拟版本",
         author: "Lenshang",
@@ -14,12 +31,12 @@
         file: "am2data/YanoACG(CAB)_10000step.am2Data",
         desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体  10000步训练版本",
         author: "焱一nano",
-        image: "cover/YanoACG(CAB).png"
+        image: "cover/YanoACG(CAB).jpg"
     }, {
         file: "am2data/YanoACG(CAB).am2Data",
         desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体",
         author: "焱一nano",
-        image: "cover/YanoACG(CAB).png"
+        image: "cover/YanoACG(CAB).jpg"
     }, {
         file: "am2data/FortinCali.am2Data",
         desc: "",

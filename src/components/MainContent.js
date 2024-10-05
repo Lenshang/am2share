@@ -83,7 +83,13 @@ function Footer({ data }) {
                 </Typography>
             </Box>
             <Typography variant="caption">
-                <IconButton onClick={() => { new Audio(data.media).play() }} sx={{ border: 0 }} aria-label="download" size="small" variant="text">
+                <IconButton onClick={() => {
+                    if (window.g_player) {
+                        window.g_player.pause();
+                    }
+                    window.g_player = new Audio(data.media);
+                    window.g_player.play();
+                }} sx={{ border: 0 }} aria-label="download" size="small" variant="text">
                     <HeadphonesIcon />
                 </IconButton>
                 <IconButton href={data.file} download sx={{ border: 0 }} aria-label="download" size="small" variant="text">
