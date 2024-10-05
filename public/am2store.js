@@ -7,18 +7,19 @@
         image: "https://www.diezelamplification.com/wp-content/uploads/2017/01/Product_Page_Amps_00000.jpg"
     }, {
         file: "am2data/20241005/R24ACG(CAB).am2Data",
-        media: "preview/R24ACG.mp3",
+        media: "preview/R24ACG.ogg",
         desc: "808→JOYO R24→Crews 2x12",
         author: "焱一nano",
         image: "cover/YanoR24acg.jpg"
     }, {
         file: "am2data/20241005/R24Riff(CAB).am2Data",
-        media: "preview/R24Riff.mp3",
+        media: "preview/R24Riff.ogg",
         desc: "FORTIN GRIND→JOYO R24→IR（EVH Inspired 5150 412ST）",
         author: "焱一nano",
         image: "cover/YanoR24.jpg"
     }, {
         file: "am2data/20241005/YanoACG2(CAB).am2Data",
+        media: "preview/YanoACG2(CAB).ogg",
         desc: "YanoACG2(CAB)",
         author: "焱一nano",
         image: "cover/YanoACG(CAB).jpg"
@@ -29,6 +30,7 @@
         image: "https://images.ctfassets.net/8puu65w27ud0/Dcg7Hop4k66g2TwxDAGnp/951223129b2959676775d7b2ac0f1410/namelessx-amp-img.png?w=450&fm=webp"
     }, {
         file: "am2data/YanoACG(CAB)_10000step.am2Data",
+        media: "preview/YanoACG10000.ogg",
         desc: "808→Two Notes LeLead→zuul降噪→Two Notes CAB加载Marshall Inspired 1960 412箱体  10000步训练版本",
         author: "焱一nano",
         image: "cover/YanoACG(CAB).jpg"
