@@ -1,8 +1,14 @@
 (function () {
     window.am2data.push({
+        file: "am2data/20241005/YanoDjent(CAB).am2Data",
+        media: "preview/YanoDjent.ogg",
+        desc: "MUSONTEK梦幻城堡→Two Notes LeLead→IR（EVH Inspired 5150 412ST）",
+        author: "焱一nano",
+        image: "cover/yanodjent.jpg"
+    }, {
         file: "am2data/PA_DIZEEL_VH4_WITHCAB.am2",
         media: "preview/PA_DIZEEL_VH4_WITHCAB_DEMO.ogg",
-        desc: "PA-Dizzel VH4+GTRPedal OD推子+三体IR CAB （自带箱体模拟版本）",
+        desc: "PA-Dizzel VH4+GTRPedal OD推子+三体IR CAB （自带箱体模拟,自带GATE版本）",
         author: "Lenshang",
         image: "https://www.diezelamplification.com/wp-content/uploads/2017/01/Product_Page_Amps_00000.jpg"
     }, {
